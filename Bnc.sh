@@ -1,14 +1,5 @@
-<html><head><style type="text/css" id="dcoder_stylesheet">
-    body{
-    background-color: #e2e2e2;
-    }
-    h1{
-    color: #555555;
-    }
-    .dcoder{
-    	color: #777777;
-    }
-    </style></head><body>#!/bin/bash
+
+#!/bin/bash
 #version 1.0
 
 # Variables
@@ -141,5 +132,5 @@ exit
 *) echo "sorry, pilihan yang anda cari tidak 
 ada"
 esac
+
 done
-done<script type="text/javascript" id="dcoder_script">alert("Hello Dcoder!")</script></body></html>
